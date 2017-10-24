@@ -1,0 +1,15 @@
+AllCops:
+  Exclude:
+    - '**/Gemfile'
+Metrics/AbcSize:
+  Max: 30
+Metrics/CyclomaticComplexity:
+  Max: 10
+Metrics/LineLength:
+  Max: 120
+Metrics/MethodLength:
+  Max: 25
+# in ruby >= 2.3 && < 3.0 a warning is raised to help migrate to ruby 3.0 where frozen string 
+# literal will be the default.
+Style/FrozenStringLiteralComment:
+  Enabled: false
