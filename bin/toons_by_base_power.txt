@@ -1,0 +1,14 @@
+25890: Commander Luke Skywalker
+22909: Asajj Ventress, BB-8, Darth Nihilus, Grand Admiral Thrawn, Grand Master Yoda, Grand Moff Tarkin, Hermit Yoda, Jyn Erso, Kylo Ren (Unmasked), Mother Talzin, Obi-Wan Kenobi (Old Ben), R2-D2
+22125: Luke Skywalker (Farmboy)
+20713: Boba Fett
+20503: Director Krennic
+19929: Ahsoka Tano (Fulcrum), Barriss Offee, Bodhi Rook, CC-2224 "Cody", CT-5555 "Fives", Captain Han Solo, Captain Phasma, Cassian Andor, Chief Chirpa, Clone Wars Chewbacca, Count Dooku, Darth Maul, Darth Sidious, Darth Vader, Death Trooper, Ezra Bridger, Finn, Gar Saxon, Garazeb "Zeb" Orrelios, General Veers, Han Solo, Hera Syndulla, K-2SO, Kanan Jarrus, Kylo Ren, Logray, Luminara Unduli, Nightsister Initiate, Old Daka, Pao, Paploo, Princess Leia, Qui-Gon Jinn, Rebel Officer Leia Organa, Rey (Scavenger), Sabine Wren, Savage Opress, Veteran Smuggler Chewbacca, Veteran Smuggler Han Solo, Wicket
+19719: Stormtrooper Han
+19144: First Order Stormtrooper, First Order TIE Pilot, Stormtrooper
+18097: Baze Malbus, Chirrut Îmwe, Emperor Palpatine, General Grievous, General Kenobi
+17733: Chopper, Teebo
+17523: Aayla Secura, Admiral Ackbar, Ahsoka Tano, Bistan, CT-21-0408 "Echo", CT-7567 "Rex", Cad Bane, Chief Nebit, Dathcha, Dengar, Eeth Koth, Greedo, HK-47, IG-88, Ima-Gun Di, Jawa Engineer, Jawa Scavenger, Jedi Knight Anakin, Kit Fisto, Lobot, Mace Windu, Nute Gunray, Plo Koon, Poe Dameron, Poggle the Lesser, Sun Fac, Talia, URoRRuR'R'R, Wedge Antilles, Zam Wesell
+17313: Lando Calrissian
+16948: B2 Super Battle Droid, Biggs Darklighter, Clone Sergeant - Phase I, Coruscant Underworld Police, Ewok Elder, Ewok Scout, First Order Officer, First Order SF TIE Pilot, Gamorrean Guard, Geonosian Soldier, Geonosian Spy, Hoth Rebel Scout, Hoth Rebel Soldier, IG-100 MagnaGuard, IG-86 Sentinel Droid, Imperial Super Commando, Jawa, Jedi Consular, Jedi Knight Guardian, Magmatrooper, Mob Enforcer, Nightsister Acolyte, Nightsister Spirit, Nightsister Zombie, Royal Guard, Scarif Rebel Pathfinder, Shoretrooper, Sith Assassin, Sith Trooper, Snowtrooper, TIE Fighter Pilot, Tusken Raider, Tusken Shaman
+16738: Resistance Pilot, Resistance Trooper, Ugnaught
